@@ -12,5 +12,6 @@ package com.mycompany.kmpltest2;
 public class kmpltest2 {
         public static void main(String[] args) {
         System.out.println("KMPL");
-    
+   
+}
 }
